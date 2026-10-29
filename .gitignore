@@ -1,0 +1,14 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# HFSS generated results and temporary files
+*.aedtresults/
+*.aedt.lock
+*.aedt.auto
+
+# Operating system files
+Thumbs.db
+.DS_Store
